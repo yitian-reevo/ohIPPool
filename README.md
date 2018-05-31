@@ -1,5 +1,7 @@
 # ohIPPool
 
+首先，有一份详细的介绍文档在我的博客：[实现增强版的代理IP池](https://journal.ethanshub.com/post/category/gong-cheng-shi/-python-pa-chong-dai-li-san)。
+
 这是一个Python实现的动态的IP代理池，后端使用Redis存储，使用Flask提供轻量级的Web服务，通过简单的GET请求就可以获得一个有效的代理IP。
 
 ![](image/ohIPPool-welcome.jpg)
